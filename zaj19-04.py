@@ -81,3 +81,4 @@ def sum(lista):
 
 lista1 = [-1,2,4,1,-8,-16]
 print = sum(lista1)
+#poprawiam projekt
